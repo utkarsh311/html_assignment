@@ -1,0 +1,16 @@
+body{
+    background-color: grey;
+}
+div{
+    width:500px;
+    margin:auto;
+    font-size:16pt;   
+}
+h3{
+    font-family:sans-serif;
+}
+#emphasis{
+    text-align:center;
+    border-style: solid;
+    border-color: white;
+}
